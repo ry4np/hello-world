@@ -1,2 +1,3 @@
 # hello-world
-just another repository 
+
+im ryan and i like driving and cycling when im not isolating 
